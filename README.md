@@ -1,4 +1,4 @@
-# python_html_request
+# python_web_request
 # 这是一个 Python 实现的简单web爬虫实例 
 Python版本3.7 
 # 功能：
